@@ -1,0 +1,27 @@
+body {
+    color: #999;
+}
+
+.hole-game {
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.hole {
+    width: 130px;
+    height: 130px;
+    margin: 0 15px 30px;
+    background: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.char {
+    width: 100px;
+    height: 100px;
+}
+
